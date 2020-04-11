@@ -1,0 +1,6 @@
+Carlos 95 100 75 80 
+Enrique 90 90 100 75 
+Salva 80 75 92 81
+Lome 65 77 96 85
+charlie 84 94 64 74
+vale 56 35 8 90 8
